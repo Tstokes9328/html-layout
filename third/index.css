@@ -1,0 +1,68 @@
+body {
+    width: 100%;
+    height: 100vh;
+}
+
+/* -- gray row --*/
+
+#gray_row {
+    width: 100%;
+    height: 10vh;
+    background-color: lightgrey;
+    padding: 10px 20px;
+}
+
+#blue_box {
+    float: left;
+    width: 7%;
+    height: 100%;
+    background-color:#4A90E2;
+}
+
+/* -- text box -- */
+
+#text_box {
+    width: 100%;
+    height: 30vh;
+    padding: 0 5px;
+    
+}
+
+p {
+    margin-top: 60px;
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: left;
+}
+
+/*-- blue row --*/
+
+#blue_row {
+    width: 100%;
+    height: 15vh;
+    background-color:#4A90E2;
+}
+
+/*-- green row --*/
+
+#green_row {
+    width: 100%;
+    height: 15vh;
+    background-color: #50E3C2;
+}
+
+/*-- lightgreen row --*/
+
+#lightgreen_row {
+    width: 100%;
+    height: 15vh;
+    background-color: #B8E986;
+}
+
+/*-- yellow row --*/
+
+#yellow_row {
+    width: 100%;
+    height: 15vh;
+    background-color: #F8E71C;
+}
