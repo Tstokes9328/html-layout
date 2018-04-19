@@ -1,0 +1,84 @@
+ body {
+     width: 100%;
+     height: 100vh;
+     padding: 20px;
+ }
+
+ /* -- box 1 -- */
+
+ #first_box {
+    width: 100%;
+    height: 30vh;
+    background-color: white;
+    border: 5px solid black;
+    padding: 7px 10px;
+ }
+
+ #purple_box {
+     width: 45px;
+     height: 75%;
+     background-color: blueviolet;
+     float: left;
+     margin-top: 40px;
+ }
+
+ #green_box {
+    float: left;
+    width: 400px;
+    height: 95%;
+    background-color: green;
+    margin-left: 70px;
+ }
+
+ #blue_circle {
+     float: left;
+     width: 200px;
+     height: 95%;
+     background-color: cyan;
+     margin-left: 70px;
+     border-radius: 50%;
+ }
+
+ /* --- second box --- */
+
+ #second_box {
+    width: 100%;
+    height: 30vh;
+    background-color: white;
+    border: 5px dotted black;
+    padding: 30px 40px;
+    margin-top: 5vh;
+ }
+
+ #yellow_box {
+     width: 100%;
+     height: 100%;
+     background-color: #fffdd0;
+    box-shadow: 6px 6px 8px black;
+ }
+
+ /* -- third box --*/
+
+ #last_box {
+    width: 100%;
+    height: 30vh;
+    padding: 10px 350px;
+    margin-top: 3vh;
+ }
+
+ #friends_box {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    border: 2px solid lightgray;
+    padding: 60px 0;
+    box-shadow: 3px 3px 6px lightgray;
+ }
+
+ .hello {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+    text-align: center;
+    font-size: 40px;
+    margin: 5px 10px;
+ }
